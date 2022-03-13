@@ -18,7 +18,8 @@ import pages.LoginPage;
 import pages.LogoutPage;
 
 public class StepDef 
-{
+{// delete thie programe
+	
 	//declare objects as global to use in all step definition methods
 	public RemoteWebDriver driver;
 	public HomePage obj1;
